@@ -1,0 +1,5 @@
+{
+  "name": "Chapchap",
+  "description": "A high-performance WhatsApp Marketing SaaS MVP designed with a clean, Wati-inspired aesthetic. Features instance management, QR connection, and message dispatching using Evolution API v2.",
+  "requestFramePermissions": []
+}
